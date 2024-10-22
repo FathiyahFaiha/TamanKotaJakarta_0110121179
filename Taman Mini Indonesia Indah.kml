@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Taman Mini Indonesia Indah</name>
+    <NetworkLink>
+      <name>POLYGON TEMPAT WISATA</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1WOqjn_Kj3rnUZY0r2UdtT4uJCfeFvn4&lid=Fetvd3qevRQ]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
